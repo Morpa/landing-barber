@@ -35,7 +35,8 @@ export default {
     texts: '#030517',
     white: '#FFFFFF',
     black: '#000000',
-    gray: '#7B7373'
+    gray: '#7B7373',
+    orange: '#FF9000'
   },
 
   spacings: {
