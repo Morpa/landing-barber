@@ -36,7 +36,9 @@ export default {
     white: '#FFFFFF',
     black: '#000000',
     gray: '#7B7373',
-    orange: '#FF9000'
+    orange: '#FF9000',
+    red: '#FF6347',
+    lightGray: '#EAEAEA'
   },
 
   spacings: {
